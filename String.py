@@ -38,5 +38,3 @@ print("Does the message contain 'World'? ", contains_world)
 new_message = message.replace("World", favorite_food)
 print("Updated message:", new_message)
 
-# Created by Dr Aamir Adeeb
-# Contact for more info at aamir@uum.edu.my
