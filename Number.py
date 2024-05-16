@@ -63,5 +63,4 @@ celsius_temp = float(input("Enter temperature in Celsius: "))
 fahrenheit_temp = (celsius_temp * 9/5) + 32
 print("Temperature in Fahrenheit:", fahrenheit_temp)
 
-# Created by Dr Aamir Adeeb
-# Contact for more info at aamir@uum.edu.my
+
